@@ -1,6 +1,6 @@
-###Topics to Research
+### Topics to Research
 - Ruby
 - Git command line
 
-###Projects
+### Projects
 - techyloft
